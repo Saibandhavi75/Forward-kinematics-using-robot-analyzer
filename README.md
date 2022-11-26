@@ -53,10 +53,10 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 ### 4 dof simulation:
 ![output](https://github.com/Saibandhavi75/Forward-kinematics-using-robot-analyzer/blob/main/k3.png?raw=true)
 ### 6 dof simulation:
-![output](https://github.com/Saibandhavi75/Forward-kinematics-using-robot-analyzer/blob/main/k4.png?raw=true)
-### 6 dof plot:
 ![output](https://github.com/Saibandhavi75/Forward-kinematics-using-robot-analyzer/blob/main/k5.png?raw=true)
+### 6 dof plot:
 ![output](https://github.com/Saibandhavi75/Forward-kinematics-using-robot-analyzer/blob/main/k6.png?raw=true)
+![output](https://github.com/Saibandhavi75/Forward-kinematics-using-robot-analyzer/blob/main/k7.png?raw=true)
 
 
 
